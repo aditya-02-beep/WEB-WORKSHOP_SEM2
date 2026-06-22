@@ -24,7 +24,7 @@ function Navbar({
       >
         <h2>
           <span className="youtube-icon">▶</span>
-          YouTube
+          YouTube 
           <span className="country-code">IN</span>
         </h2>
       </Link>
